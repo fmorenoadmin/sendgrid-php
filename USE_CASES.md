@@ -1379,7 +1379,7 @@ $message = $client->messages->create(
 );
 ```
 
-For more information, please visit the [Twilio SMS PHP documentation](https://www.twilio.com/docs/sms/quickstart/php).
+For more information, please visit the [Twilio SMS PHP documentation](https://www.twilio.com/docs/sms/quickstart/python).
 
 <a name="domain-authentication"></a>
 # How to Set up a Domain Authentication
