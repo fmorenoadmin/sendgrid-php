@@ -1,4 +1,4 @@
-![SendGrid Logo](https://frankmorenoalburqueque.com/images/logo.png)
+![FMoreno Logo](https://frankmorenoalburqueque.com/images/logo.png)
 
 [![BuildStatus](https://travis-ci.org/sendgrid/sendgrid-php.svg?branch=master)](https://travis-ci.org/sendgrid/sendgrid-php)
 [![Packagist](https://img.shields.io/packagist/v/sendgrid/sendgrid.svg)](https://packagist.org/packages/sendgrid/sendgrid)
