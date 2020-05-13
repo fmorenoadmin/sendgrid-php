@@ -9,7 +9,7 @@ require 'vendor/autoload.php'; // If you're using Composer (recommended)
 // which is included in the download:
 // https://github.com/sendgrid/sendgrid-php/releases
 
-$apiKey = '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';
+$apiKey = 'SECRET_KEY';
 $sg = new \SendGrid($apiKey);
 
 try {
