@@ -10,12 +10,20 @@
 [![Open Source Helpers](https://www.codetriage.com/sendgrid/sendgrid-php/badges/users.svg)](https://www.codetriage.com/sendgrid/sendgrid-php)
 
 **1**
-Desargar o clonar este repositorio y colocarlo en tu proyecto
+Crea tu cuenta en https://signup.sendgrid.com/
+Y sigue los pasos de registro
 
 **2**
-Ingrear API_KEY dentro del archivo #constant.php
+Crea tu correo de destinatario
+confirma tu correo electrónico de destinatario (Correo de verifiación enviado por SendGrid)
 
 **3**
+Desargar o clonar este repositorio y colocarlo en tu proyecto
+
+**4**
+Ingrear API_KEY dentro del archivo #constant.php
+
+**5**
 Ejecutar archivo #index.php
 
-**lISTO**
+**LISTO**
