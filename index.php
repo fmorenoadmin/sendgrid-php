@@ -8,8 +8,9 @@ header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 
 require 'vendor/autoload.php';
+require 'constant.php';
 
-$apy_key='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';
+$apy_key=SECRET_KEY;
 $email = new \SendGrid\Mail\Mail(); 
 $email->setFrom("sendgrid@frankmorenoalburqueque.com", "Send Grid");
 $email->setSubject("Esta es una prueba");
