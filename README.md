@@ -18,12 +18,15 @@ Crea tu correo de destinatario
 confirma tu correo electrónico de destinatario (Correo de verifiación enviado por SendGrid)
 
 **3**
-Desargar o clonar este repositorio y colocarlo en tu proyecto
+Crea tu API_KEY
 
 **4**
-Ingrear API_KEY dentro del archivo #constant.php
+Desargar o clonar este repositorio y colocarlo en tu proyecto
 
 **5**
+Ingrear API_KEY dentro del archivo #constant.php
+
+**6**
 Ejecutar archivo #index.php
 
 **LISTO**
