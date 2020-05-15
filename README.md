@@ -14,12 +14,7 @@ Y sigue los pasos de registro
 
 **2**
 Crea tu correo de remitente
-confirma tu correo electrónico de remitente (Correo de verificación enviado por SendGrid)
-
-
-
-
-
+confirma tu correo electrónico de remitente
 (Correo de verifiación enviado por SendGrid)
 
 **3**
