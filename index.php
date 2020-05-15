@@ -14,7 +14,7 @@ $apy_key=SECRET_KEY;
 $email = new \SendGrid\Mail\Mail(); 
 $email->setFrom("sendgrid@frankmorenoalburqueque.com", "Send Grid");
 $email->setSubject("Esta es una prueba");
-$email->addTo("admin@frankmorenoalburqueque.com", "Frnak Moreno");
+$email->addTo("admin@frankmorenoalburqueque.com", "Frank Moreno");
 $email->addContent("text/plain", "and easy to do anywhere, even with PHP");
 $email->addContent(
     "text/html", "<strong>and easy to do anywhere, even with PHP</strong>"
