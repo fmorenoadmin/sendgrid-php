@@ -24,7 +24,7 @@ Crea tu API_KEY
 Desargar o clonar este repositorio y colocarlo en tu proyecto
 
 **5**
-Ingrear API_KEY dentro del archivo #constant.php
+Ingrear API_KEY dentro del archivo #constant.php en: 'INSERT_SECRET_KEY'
 
 **6**
 Edita y ejecuta el archivo #index.php para que pruebes que si se envía el correo electrónico.
