@@ -13,8 +13,14 @@ Crea tu cuenta en https://signup.sendgrid.com/
 Y sigue los pasos de registro
 
 **2**
-Crea tu correo de destinatario
-confirma tu correo electrónico de destinatario (Correo de verifiación enviado por SendGrid)
+Crea tu correo de remitente
+confirma tu correo electrónico de remitente (Correo de verificación enviado por SendGrid)
+
+
+
+
+
+(Correo de verifiación enviado por SendGrid)
 
 **3**
 Crea tu API_KEY
@@ -26,6 +32,10 @@ Desargar o clonar este repositorio y colocarlo en tu proyecto
 Ingrear API_KEY dentro del archivo #constant.php
 
 **6**
-Ejecutar archivo #index.php
+Edita y ejecuta el archivo #index.php para que pruebes que si se envía el correo electrónico.
+
+Cambia el # from sendgrid@frankmorenoalburqueque.com por tú correo de remitente del paso 2
+
+Cambia el # addto('admin@frankmorenoalburqueque.com', 'Frank Moreno'); por el correo y nombre de destinatario.
 
 **LISTO**
