@@ -27,6 +27,7 @@ $email->addContent("text/plain", "insert text here");
 $email->addContent(
     "text/html", 
     "
+    	<link href='' rel='stylesheet'>
 	    <strong>
 	    	insert text here
 	    </strong>
