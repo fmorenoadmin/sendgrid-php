@@ -46,3 +46,5 @@ Para Método REQUEST:
 	Edita y ejecuta el archivo #para_request.php para que pruebes que si se envía el correo electrónico.
 
 **LISTO**
+
+Si necesitas más cosas en tu correo. Revisa el archivo #adicionales.php

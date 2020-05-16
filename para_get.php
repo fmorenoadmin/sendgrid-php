@@ -28,6 +28,7 @@ if (isset($_GET['send_mail'])) {
 	$email->addContent(
 	    "text/html", 
 	    "
+    		<link href='' rel='stylesheet'>
 		    ".$mensaje_html."
 		    <br>
 		    <strong>Dirección IP: </strong>".$_SERVER['REMOTE_ADDR']."
