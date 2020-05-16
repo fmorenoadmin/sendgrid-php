@@ -34,12 +34,15 @@ Para prueba del envío del correo:
 	Cambia el # addTo("insert@destinatario.com", "insert name destinatario"); por el correo y nombre de destinatario.
 
 Para Método POST:
+
 	Edita y ejecuta el archivo #para_post.php para que pruebes que si se envía el correo electrónico.
 
 Para Método GET:
+
 	Edita y ejecuta el archivo #para_get.php para que pruebes que si se envía el correo electrónico.
 
 Para Método REQUEST:
+
 	Edita y ejecuta el archivo #para_request.php para que pruebes que si se envía el correo electrónico.
 
 **LISTO**
