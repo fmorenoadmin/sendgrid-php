@@ -27,6 +27,7 @@ Ingresar la API_KEY dentro del archivo #constant.php en: 'INSERT_SECRET_KEY'
 
 **6**
 Para prueba del envío del correo:
+
 	Edita y ejecuta el archivo #index.php para que pruebes que si se envía el correo electrónico.
 	Cambia el # setFrom("insert@remitente.com", "insert name remitente"); por tú correo de remitente del paso 2
 	Cambia el # setSubject("Esta es una prueba"); por el asunto del correo.
